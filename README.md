@@ -1,1 +1,3 @@
-# A simple Mad Libs game, where you can create a mini story using python and simple parts of speech
+# Author Adithya Ashok Sapalya
+
+# A simple Mad Libs game, where you can create a mini story using python and simple parts of speech.
