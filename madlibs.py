@@ -1,3 +1,5 @@
+# A simple Mad Libs game, where you can create a mini story using python and simple parts of speech
+
 adjectivel = input("Enter an adjective: ")
 noun = input("Enter a noun: ")
 adjective2 = input("Enter an adjective: ")
